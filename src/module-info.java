@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Maibenben
+ *
+ */
+module hello {
+}
